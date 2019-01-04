@@ -1,0 +1,33 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 2px #e8e8e8 solid;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+html {
+	font-size: 14px;
+}
+	@media (min-width: 768px) {
+html {
+	font-size: 16px;
+}
+}
+
+html body {
+	background-color: #f4f4f452;
+}
+.pricing-header {
+	max-width: 700px;
+}
+
+.card-deck .card {
+	min-width: 220px;
+}
