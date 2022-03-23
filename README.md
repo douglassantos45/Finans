@@ -6,4 +6,6 @@ https://www.udemy.com/web-completo/
 
 <img alt="finans" src="https://i.imgur.com/GyCoPko.png">
 <img alt="finans" src="https://i.imgur.com/yr88tpf.png">
-<img alt="finans" src="https://i.imgur.com/rx9gTCT.png">
+<div align="center">
+  <img alt="finans" src="https://i.imgur.com/rx9gTCT.png">
+</div>
